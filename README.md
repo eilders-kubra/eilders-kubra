@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hello, I'm @eilders-kubra 👋
+
+## 📆 Times / hours I like to work
+- 🕘 8AM - 5PM Pacific Time
+- 🏠 I live in Phoenix, Arizona. What's daylight time? We need MORE sun?
+
+## 📫 Best ways to communicate with me
+- 📱 Slack - @Ryan Eilders (Preferred)
+- 📧 Email - ryan.eilders@kubra.com
+<!-- - ✔️ JIRA/Confluence - @ryan.eilders -->
+- 💻 MS Teams - ryan.eilders@hearst.com
 
 <!--
 **eilders-kubra/eilders-kubra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
