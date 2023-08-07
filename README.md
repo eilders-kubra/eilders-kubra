@@ -1,7 +1,7 @@
 # Hello, I'm @eilders-kubra 👋
 
 ## 📆 Times / hours I like to work
-- 🕘 8AM - 5PM Pacific Time
+- 🕘 8AM - 5PM Mountain Standard Time (No DST)
 - 🏠 I live in Phoenix, Arizona. What's daylight time? We need MORE sun?
 
 ## 📫 Best ways to communicate with me
