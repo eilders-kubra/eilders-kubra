@@ -7,10 +7,12 @@
 ## 📫 Best ways to communicate with me
 - 📱 Slack - @Ryan Eilders (Preferred)
 - 📧 Email - ryan.eilders@kubra.com
-<!-- - ✔️ JIRA/Confluence - @ryan.eilders -->
 - 💻 MS Teams - ryan.eilders@hearst.com
 
 <!--
+
+- ✔️ JIRA/Confluence - @ryan.eilders
+
 **eilders-kubra/eilders-kubra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
